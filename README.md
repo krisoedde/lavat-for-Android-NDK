@@ -10,7 +10,7 @@ A terminal lava lamp simulator, compiled for ARM64 Android using Android NDK.
 - **Platform:** Android
 - **Build system:** Android NDK r29
 - **Compiler:** Clang 21
-- **Target API:** Android 15 (API 35)
+- **Compile target API:** Android 15 (API 35)
 - **Binary:** Native ELF executable
 - **Author:** kRiSOED
 
