@@ -17,7 +17,7 @@ A terminal lava lamp simulator, compiled for ARM64 Android using Android NDK.
 ## Installation
 
 1. Download the module ZIP from Releases.
-2. Open KernelSU Manager.
+2. Open KernelSU/Magisk.
 3. Navigate to Modules.
 4. Select the ZIP and install it.
 5. Reboot your device.
