@@ -41,7 +41,3 @@ The executable is dynamically linked against Android system libraries (Bionic).
 - Original project: [AngelJumbo/lavat](https://github.com/AngelJumbo/lavat)
 - Android NDK: Google
 - Android build and module packaging: **kRiSOED**
-
----
-
-*Built for Android. Powered by the terminal.*
