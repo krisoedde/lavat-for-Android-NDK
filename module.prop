@@ -1,0 +1,6 @@
+id=lavat
+name=lavat for Android NDK
+version=1.0
+versionCode=1
+author=kRiSOED
+description=Native ARM64 lavat binary compiled with Android NDK
